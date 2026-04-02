@@ -9,9 +9,13 @@ Biomedical Engineering student at Syracuse University (B.S. & M.S., Renée Crown
 ## Technical Skills
 
 **Languages:** Python, HTML/CSS, JavaScript
+
 **Frameworks:** Django
+
 **Tools:** Biopython, Git, Arduino
+
 **Domains:** Bioinformatics, medical device engineering, assistive technology
+
 
 ## Connect
 
