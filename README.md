@@ -1,16 +1,18 @@
-## Hi there 👋
+# Alexander Keysor (he/him/his)
 
-<!--
-**aakeysor/aakeysor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Engineering student at Syracuse University (B.S. & M.S., Renée Crown Honors Program). I build software tools for biomedical and scientific applications. 
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[CRISPR Guide Designer](https://github.com/aakeysor/crispr-guide-designer)** – Web-based sgRNA design tool with on-target efficiency scoring, off-target mismatch analysis, and interactive sequence visualisation. Built with Django and Biopython.
+
+## Technical Skills
+
+**Languages:** Python, HTML/CSS, JavaScript
+**Frameworks:** Django
+**Tools:** Biopython, Git, Arduino
+**Domains:** Bioinformatics, medical device engineering, assistive technology
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/alexanderkeysor)
