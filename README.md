@@ -1,6 +1,6 @@
 # Alexander Keysor (he/him/his)
 
-Biomedical Engineering student at Syracuse University (B.S. & M.S., Renée Crown Honors Program). I build software tools for biomedical and scientific applications. 
+Biomedical Engineering student at Syracuse University (B.S. & M.S., Renée Crown Honors Program). 
 
 ## Projects
 
