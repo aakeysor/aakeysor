@@ -6,6 +6,7 @@ Biomedical Engineering student at Syracuse University (B.S. & M.S., Renée Crown
 
 - **[CRISPR Guide Designer](https://github.com/aakeysor/crispr-guide-designer)** – Web-based sgRNA design tool with on-target efficiency scoring, off-target mismatch analysis, and interactive sequence visualisation. Built with Django and Biopython.
 - **[Hodgkin-Huxley Neuron Model](https://github.com/aakeysor/hodgkin-huxley)** - Python implementation of the 1952 Hodgkin-Huxley action potential model. Solves a four-variable ODE system using SciPy, with publication-quality figures and an interactive Streamlit dashboard for real-time parameter exploration.
+- **[AAC Conversation Assistant](https://github.com/aakeysor/aac-conversation-assistant)** – Emotion-first AAC web app with AI-powered conversation guidance, three-level speech rephrasing, and expressive text-to-speech. Built with Django, Ollama, and edge-tts.
 
 ## Technical Skills
 
@@ -13,7 +14,7 @@ Biomedical Engineering student at Syracuse University (B.S. & M.S., Renée Crown
 
 **Frameworks:** Django, Streamlit
 
-**Tools:** Biopython, SciPy, Matplotlib, Git, Arduino
+**Tools:** Biopython, SciPy, Matplotlib, Git, Arduino, Edge-TTS, Ollama
 
 **Domains:** Bioinformatics, computational neuroscience, medical device engineering, assistive technology
 
